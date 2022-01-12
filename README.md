@@ -1,7 +1,7 @@
 # RepositorioPrueba
 - HTML File that has cars in it.
 
-This page has two branches: Road cars and Race cars.
+This page has two sections: Road cars and Race cars.
 
 <details>
 <summary>Road cars</summary>
